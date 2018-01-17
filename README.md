@@ -3,3 +3,5 @@
 
 * ts-doc/ : Typescript Documentation example code
   * Link: https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+* code-utils/ : Typescript useful functions & code
